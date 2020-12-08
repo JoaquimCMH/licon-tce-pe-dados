@@ -9,4 +9,4 @@ services:
    volumes:
      - <insira-aqui-diretorio-completo>/mssql:/var/opt/mssql
    ports:
-     - 1404:1434
+     - 1404:1433
